@@ -1,6 +1,7 @@
 Sziasztok csináltam egy zaj szimulációt a [Worley Noise](https://en.wikipedia.org/wiki/Worley_noise) alapján.
 SFML-t használtam a vizualizációhoz, úgyhogy nem fog csak úgy lefutni sajnos.
 Becsatolom azért a kódot és a képeket is amiket generáltam vele 🙂.
+Ha lefuttatjátok készüljetek fel arra, hogy nagyon lassan renderel 😅.
 
 ![1](images/Worley%20Noise%201.png)
 ![2](images/Worley%20Noise%202.png)
